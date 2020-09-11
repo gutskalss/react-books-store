@@ -1,5 +1,7 @@
 # Books store made with react and redux. (the app is not completely done)
 
+**View demo here: https://gutskalss.github.io/react-books-store/**
+
 ## Available Scripts
 
 In the project directory, you can run:
